@@ -1,4 +1,4 @@
-import java.util.Arrays; // Segestão de Lucas
+import java.util.Arrays;
 
 public class Rubro {
     // Vermelha Cresce
